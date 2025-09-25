@@ -3,7 +3,7 @@
     "id": "M1911",
     "name": "M1911（RP 版）",
     "type": "手枪 | 半自动",
-    "description": "经典 .45 口径手枪的角色扮演模型，仅供 RP 展示与模拟使用。",
+    "description": "M1911 是一款单动半自动手枪，由约翰·勃朗宁设计，柯尔特公司制造。",
     "price": "询价",
     "image": "https://via.placeholder.com/400x300?text=M1911",
     "order_link": "https://wpa.qq.com/msgrd?v=3&uin=3264941473&site=qq&menu=yes"
@@ -12,7 +12,7 @@
     "id": "M9",
     "name": "M9（RP 版）",
     "type": "手枪 | 半自动",
-    "description": "贝瑞塔 M9 风格的角色扮演模型，适合军警类 RP 场景。",
+    "description": "M9是一款后坐力小、半自动、单动/双动手枪，使用15发交错式弹匣，并配有可翻转的弹匣释放按钮，方便左手或右手射击。",
     "price": "询价",
     "image": "https://via.placeholder.com/400x300?text=M9",
     "order_link": "https://wpa.qq.com/msgrd?v=3&uin=3264941473&site=qq&menu=yes"
@@ -21,7 +21,7 @@
     "id": "Rem700",
     "name": "Remington 700（RP 版）",
     "type": "栓动狙击步枪 | 展示",
-    "description": "高精度狙击风格的 RP 步枪模型，供狙击/狩猎场景使用（角色扮演用途）。",
+    "description": "高精度狙击枪，供狙击/狩猎场景使用（角色扮演用途）。",
     "price": "询价",
     "image": "https://via.placeholder.com/400x300?text=Remington+700",
     "order_link": "https://wpa.qq.com/msgrd?v=3&uin=3264941473&site=qq&menu=yes"
@@ -30,7 +30,7 @@
     "id": "Rem870",
     "name": "Remington 870（RP 版）",
     "type": "霰弹枪 | 展示",
-    "description": "泵动霰弹枪外观的角色扮演模型，适用于近战/入侵类 RP 场景（仅模拟）。",
+    "description": "泵动霰弹枪，适用于近战。",
     "price": "询价",
     "image": "https://via.placeholder.com/400x300?text=Remington+870",
     "order_link": "https://wpa.qq.com/msgrd?v=3&uin=3264941473&site=qq&menu=yes"
@@ -39,7 +39,7 @@
     "id": "AR15",
     "name": "AR15（RP 版）",
     "type": "卡宾枪 | 展示",
-    "description": "AR15 风格的角色扮演步枪模型，供战术/保安类 RP 场景使用（不做真实交易）。",
+    "description": "AR-15 采用模块化上下机匣设计，易于拆卸进行清洁和维护，并允许使用护手、枪管和光学器件等各种部件进行广泛的定制。",
     "price": "询价",
     "image": "https://via.placeholder.com/400x300?text=AR15",
     "order_link": "https://wpa.qq.com/msgrd?v=3&uin=3264941473&site=qq&menu=yes"
