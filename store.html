@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>枪械商店 - Armed Nation Firearms</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: "Microsoft YaHei", sans-serif;
+      background: url('images/bg.jpg') no-repeat center center/cover;
+      color: #f0c97d;
+    }
+
+    header {
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 15px 25px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    header img {
+      height: 60px;
+    }
+
+    nav a {
+      color: #f0c97d;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .store {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+      padding: 40px;
+    }
+
+    .item {
+      background-color: rgba(0,0,0,0.6);
+      border: 1px solid #f0c97d;
+      border-radius: 10px;
+      text-align: center;
+      padding: 20px;
+      transition: transform 0.2s;
+    }
+
+    .item:hover {
+      transform: scale(1.03);
+    }
+
+    .item img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: rgba(0,0,0,0.6);
+      border-top: 1px solid #f0c97d;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <img src="images/ANF_logo.jpg" alt="ANF Logo">
+    <nav>
+      <a href="store.html">商店</a>
+    </nav>
+  </header>
+
+  <h1>Armed Nation Firearms 枪械陈列</h1>
+
+  <section class="store">
+    <div class="item">
+      <img src="https://cdn.pixabay.com/photo/2018/02/26/21/25/pistol-3188921_1280.jpg" alt="M1911">
+      <h3>M1911</h3>
+      <p>经典.45手枪，精准可靠，结构坚固，百年传承。</p>
+    </div>
+
+    <div class="item">
+      <img src="https://cdn.pixabay.com/photo/2020/04/13/13/34/pistol-5039580_1280.jpg" alt="M9">
+      <h3>M9</h3>
+      <p>9mm半自动手枪，性能稳定，制式武器之选。</p>
+    </div>
+
+    <div class="item">
+      <img src="https://cdn.pixabay.com/photo/2017/07/27/00/28/gun-2547014_1280.jpg" alt="Remington 700">
+      <h3>Remington 700</h3>
+      <p>高精度栓动步枪，远程射击精准度出色。</p>
+    </div>
+
+    <div class="item">
+      <img src="https://cdn.pixabay.com/photo/2017/07/27/00/29/gun-2547017_1280.jpg" alt="Remington 870">
+      <h3>Remington 870</h3>
+      <p>经典泵动霰弹枪，可靠耐用，战术与狩猎皆宜。</p>
+    </div>
+
+    <div class="item">
+      <img src="https://cdn.pixabay.com/photo/2020/03/28/10/25/rifle-4976506_1280.jpg" alt="AR-15">
+      <h3>AR-15</h3>
+      <p>模块化突击步枪，轻便灵活，战术扩展性极强。</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>联系我们 QQ：3264941473</p>
+  </footer>
+</body>
+</html>
